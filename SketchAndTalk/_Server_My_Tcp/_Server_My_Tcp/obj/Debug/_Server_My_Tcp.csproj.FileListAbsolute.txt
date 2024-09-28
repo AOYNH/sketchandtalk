@@ -1,0 +1,8 @@
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\_Server_My_Tcp\bin\Debug\_Server_My_Tcp.exe.config
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\_Server_My_Tcp\bin\Debug\_Server_My_Tcp.exe
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\_Server_My_Tcp\bin\Debug\_Server_My_Tcp.pdb
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\_Server_My_Tcp\obj\Debug\_Server_My_Tcp.exe
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\_Server_My_Tcp\obj\Debug\_Server_My_Tcp.pdb
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\_Server_My_Tcp\obj\Debug\_Server_My_Tcp.csprojResolveAssemblyReference.cache
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\_Server_My_Tcp\bin\Debug\ShareLib.dll
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\_Server_My_Tcp\bin\Debug\ShareLib.pdb

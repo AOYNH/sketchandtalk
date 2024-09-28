@@ -1,0 +1,5 @@
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\ShareLib\bin\Debug\ShareLib.dll
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\ShareLib\bin\Debug\ShareLib.pdb
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\ShareLib\obj\Debug\ShareLib.csprojResolveAssemblyReference.cache
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\ShareLib\obj\Debug\ShareLib.dll
+D:\nxr\Csharp\Chat_app\tcp\MY_TCP_SERVER_CLIENT\_Server_My_Tcp\ShareLib\obj\Debug\ShareLib.pdb

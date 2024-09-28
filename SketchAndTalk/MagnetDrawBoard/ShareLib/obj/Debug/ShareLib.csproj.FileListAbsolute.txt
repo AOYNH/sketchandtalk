@@ -1,0 +1,5 @@
+D:\nxr\Csharp\MagnetDrawBoard\ShareLib\bin\Debug\ShareLib.dll
+D:\nxr\Csharp\MagnetDrawBoard\ShareLib\bin\Debug\ShareLib.pdb
+D:\nxr\Csharp\MagnetDrawBoard\ShareLib\obj\Debug\ShareLib.csprojResolveAssemblyReference.cache
+D:\nxr\Csharp\MagnetDrawBoard\ShareLib\obj\Debug\ShareLib.dll
+D:\nxr\Csharp\MagnetDrawBoard\ShareLib\obj\Debug\ShareLib.pdb

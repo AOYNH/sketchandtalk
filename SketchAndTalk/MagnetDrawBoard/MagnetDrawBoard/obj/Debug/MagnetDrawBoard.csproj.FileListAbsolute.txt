@@ -1,0 +1,13 @@
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\bin\Debug\MagnetDrawBoard.exe.config
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\bin\Debug\MagnetDrawBoard.exe
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\bin\Debug\MagnetDrawBoard.pdb
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\obj\Debug\MagnetDrawBoard.csprojResolveAssemblyReference.cache
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\obj\Debug\MagnetDrawBoard.NumberPad.resources
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\obj\Debug\MagnetDrawBoard.Properties.Resources.resources
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\obj\Debug\MagnetDrawBoard.csproj.GenerateResource.Cache
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\obj\Debug\MagnetDrawBoard.exe
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\obj\Debug\MagnetDrawBoard.pdb
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\obj\Debug\MagnetDrawBoard.DrawingBoard.resources
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\obj\Debug\MagnetDrawBoard.ReceiverDialPad.resources
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\bin\Debug\ShareLib.dll
+D:\nxr\Csharp\MagnetDrawBoard\MagnetDrawBoard\bin\Debug\ShareLib.pdb
